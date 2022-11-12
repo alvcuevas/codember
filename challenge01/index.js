@@ -1,5 +1,5 @@
 const { separateUserInfoFromTextLine, parseUserInfo, validateUser } = require('./utils.js')
-const file = require('fs').readFileSync('users.txt', 'utf-8');
+const file = require('fs').readFileSync('challenge01/users.txt', 'utf-8');
 
 const validUsersList = file
   .split('\n\n')
