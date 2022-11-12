@@ -9,6 +9,6 @@
 Challenges solutions of https://codember.dev/ by [@Midudev](https://github.com/midudev)
 
 ## Challenges
-| #   | Challenge                                                                     |
-| --- | ----------------------------------------------------------------------------- |
-| 1   | [¡Arregla Twitter!](./challenge01/README.md)                                  |
+| #   | Challenge                                                                     | Run solution |
+| --- | ----------------------------------------------------------------------------- | ------------ |
+| 1   | [¡Arregla Twitter!](./challenge01/README.md)                                  | ```npm run challenge01``` |
