@@ -21,7 +21,7 @@ Pero han interceptado un mensaje más largo que no han podido y nos han dicho qu
 11610497110107115 102111114 11210897121105110103 9911110010110998101114 11210810197115101 11510497114101
 ```
 
-Ahora que ya sabes esto, usa este input para detectar los usuarios incorrectos: https://codember.dev/users.txt
+Ahora que ya sabes esto, https://codember.dev/encrypted.txt
 
 ## Pistas
 
