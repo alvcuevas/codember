@@ -11,7 +11,8 @@ Code solutions to the challenges of https://codember.dev/ by [@Midudev](https://
 
 ## Challenges
 
-| #   | Challenge                                                   | Implementation                 | Run solution          |
-| --- | ----------------------------------------------------------- | ------------------------------ | --------------------- |
-| 1   | [¡Arregla Twitter!](./challenge01/README.md)                | [Link](./challenge01/index.js) | `npm run challenge01` |
-| 2   | [¡Atrapa a esos ciber criminales!](./challenge02/README.md) | [Link](./challenge02/index.js) | `npm run challenge02` |
+| #   | Challenge                                                      | Implementation                 | Run solution          |
+| --- | -------------------------------------------------------------- | ------------------------------ | --------------------- |
+| 1   | [¡Arregla Twitter!](./challenge01/README.md)                   | [Link](./challenge01/index.js) | `npm run challenge01` |
+| 2   | [¡Atrapa a esos ciber criminales!](./challenge02/README.md)    | [Link](./challenge02/index.js) | `npm run challenge02` |
+| 4   | [Encuentra la contraseña de tu amigo](./challenge04/README.md) | [Link](./challenge04/index.js) | `npm run challenge04` |
